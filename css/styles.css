@@ -1,0 +1,46 @@
+div {
+margin-top: 250px;
+margin-left:780px;
+margin-bottom: 10px;
+position: relative;
+}
+
+form {
+text-align: center;
+}
+
+button {
+border: none;
+height: 36px;
+width: 125.75px;
+font-family: sans-serif;
+margin-top: 36px;
+
+}
+
+input {
+font-family: sans-serif;
+height: 26px;
+width: 525px;
+}
+
+.footer{
+margin-left: -27px;
+font-size: small;
+display: block;
+background: #f2f2f2;
+border-top: 1px solid #e4e4e4;
+line-height: 40px;
+min-width: 988px;
+height: auto;
+visibility: visible;
+bottom: 0;
+height: 35px;
+position: absolute;
+width: 100%;
+color: #222;
+font-family: arial, sans-serif;
+
+}
+
+
